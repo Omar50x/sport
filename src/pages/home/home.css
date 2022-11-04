@@ -64,3 +64,10 @@
     background: var(--color-secondary);
     color: var(--color-gray-600);
 }
+
+/* VALUES */
+.values__container {
+    display: grid;
+    grid-template-columns: 38% 50%;
+    gap: 12%;
+}
